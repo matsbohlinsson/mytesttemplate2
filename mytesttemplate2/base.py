@@ -29,4 +29,5 @@ def base_function() -> str:
     """
     Base function.
     """
+    Q
     return "hello from base function"
